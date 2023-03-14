@@ -1,0 +1,11 @@
+.cardContainer {
+  width: 100%;
+  display: flex;
+  overflow-x: auto;
+  column-gap: .5rem;
+  padding-top: 2rem;
+}
+
+.sectionCard {
+  margin-top: 2rem;
+}
